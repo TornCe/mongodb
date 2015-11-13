@@ -1,0 +1,39 @@
+李海帆
+成功！私募填报-获得产品模板    http://192.168.1.117:9999/v1/fillfund/get_fund_template_list?
+
+成功！！私募填报-获得产品模板映射    http://192.168.1.117:9999/v1/fillfund/get_fund_template_mapping_list
+
+没有查询到相应内容！私募填报-投顾旗下产品-产品对比图    http://192.168.1.117:9999/v1/fillorg/get_org_funds_compare
+
+成功！私募填报--产品信息--产品基本资料    http://192.168.1.117:9999/v1/fill_details/get_basic_data
+
+成功！私募填报--投顾详情--市道统计    http://192.168.1.117:9999/v1/fill_details/org_quarter_score
+
+此次请求没有查询到相应内容！！私募填报-投顾评价-投资水平    http://192.168.1.117:9999/v1/fillorg/get_org_invest_level
+
+必填参数不完整，缺少以下参数：fund_manager_id！！只输入fund_manager_id！！显示此次请求没有查询到相应内容！！私募填报-投顾评价-历史月度收益率    http://192.168.1.117:9999/v1/fillorg/get_org_old_month_return
+
+此次请求没有查询到相应内容！！私募填报--投顾详情--收益波动统计    http://192.168.1.117:9999/v1/fill_details/org_sale_stat
+
+成功！！私募填报--投顾评价--产品发行情况    http://192.168.1.117:9999/v1/fill_details/get_org_issue
+
+233b706e7cfc46cea25ffe3441cc3f63
+
+芮东飞
+私募填报--投顾详情--旗下管理的产品    http://192.168.1.117:9999/v1/fill_details/get_org_manager    错误的请求参数【必填参数不完整，缺少以下参数：request_type】 填写request_type后正常
+
+私募填报--投资详情--基本情况--基础资料    http://192.168.1.117:9999/v1/fill_details/get_org_data   正常
+
+私募填报--投顾详情--投顾特点，投顾风险点    http://192.168.1.117:9999/v1/fill_details/get_org_hint  正常
+
+私募填报--投顾详情--基本情况--产品分布    http://192.168.1.117:9999/v1/fill_details/get_org_distribution   正常
+
+私募填报--产品信息--获取投资经理信息    http://192.168.1.117:9999/v1/fill_details/get_member  正常
+
+私募填报--获取产品、沪深300、全市场指数今年以来，成立以来收益率    http://192.168.1.117:9999/v1/fill_details/get_sale 正常
+
+私募填报--获取产品特点,产品风险,投顾特点    http://192.168.1.117:9999/v1/fill_details/get_fund_trait   正常
+
+私募填报-批量导入产品    http://192.168.1.117:9999/v1/fillfund/import_funds   正常
+
+私募填报--产品信息收益指数图    http://192.168.1.117:9999/v1/fill_details/get_index_value  正常
